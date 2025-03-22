@@ -1,5 +1,11 @@
 import os
 
+"""
+ 
+ Improved version of replaceHeaders with enhanced reusability for future projects.
+ 
+ """
+
 def getDirectoryPath(source_dir):
 
     """
