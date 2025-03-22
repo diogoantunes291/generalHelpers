@@ -25,13 +25,13 @@ This repository contains a set of reusable Python utilities, including local lib
    - Replace underscores _ with dots . in headers
 
 
-Dependencies
+## Dependencies
 
    - Python 3.x
    - No external libraries required (only standard Python modules)
 
 
-Future Improvements
+## Future Improvements
 
    - Expand the generalHelpers library with additional automation functions
    - Enhance error handling for CSV processing
